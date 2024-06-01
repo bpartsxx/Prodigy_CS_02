@@ -1,7 +1,7 @@
 
 # ICryptor 1.0 - a simple image encryptor/decryptor
 
-This is a simple tool used for image encryption/decryption. It scrambles the image based on a seed that is generated using the image size. It also unscrambles the image based on the same.
+This is a simple tool used for image encryption/decryption based on Pixel Manipulation. It scrambles the image based on a seed that is generated using the image size. It also unscrambles the image based on the same.
 
 
 ## Usage/Examples
